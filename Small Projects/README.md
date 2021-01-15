@@ -1,31 +1,9 @@
-# Smaller Projects that build-up to the main projects.
+# Description of the Projects
 
-## Description of the Projects
+These could be considered as some of the intermediate steps to come-up with the bigger modeling projects.
 
-### Combining Excel and Python
-Starts with using pandas to import, write and export Excel documents. <br>
-Files used:
-- Write Excel with Pandas.ipynb
-- MSFT Financials.xls
+- Combining Excel and Python
+- Cost of Capital
+- Random Numbers 
 
-Next level will be to control Excel with the library `xlwings`. This powerful
-library allows us to control Excel from Python without having to export each
-command intended. <br>
-Files used:
-- Combining Excel and Python.ipynb
-- xlwings.xlsx
-
-Continuing with `xlwings`, a new model where VBA would be required, a
-Monte Carlo simulation written in Python and executed instantly in Excel. <br>
-Files used:
-- Excel Monte Carlo.ipynb
-- Dynamic Salary Retirement Model with Monte Carlo.xlsx
-
-> Note: Some extra analysis steps are already done in the Excel file, the point
- of this Jupyter Notebook is to show how Python can run a Monte Carlo simulation
- directly in Excel.
-
-### Cost of Capital
-
-
-### Random Numbers 
+Each folder contains the Jupyter Notebooks used and (if it was needed) the Excel files to
