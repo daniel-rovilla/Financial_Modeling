@@ -11,4 +11,4 @@ Files used:
 - Adding Scenario Analysis to Retirement Model.ipynb
 - Adding Sensitivity Analysis to Retirement Model.ipynb
 
-> Note: With the last Conda update, the library `SensitivityAnalyzer`from the package `sensitivity` is having some issues. This will affect the "Adding Sensitivity Analysis to Retirement Model" notebook. Had notified the package developer about this, should be fixed soon.
+> Note: With the last Conda update, the library `SensitivityAnalyzer` from the package `sensitivity`, is having some issues. This will affect the "Adding Sensitivity Analysis to Retirement Model" notebook. Had notified the package developer about this, should be fixed soon.
