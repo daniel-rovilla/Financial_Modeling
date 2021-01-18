@@ -10,3 +10,5 @@ Files used:
 - Adding Monte Carlo Simulations to Retirement Model.ipynb
 - Adding Scenario Analysis to Retirement Model.ipynb
 - Adding Sensitivity Analysis to Retirement Model.ipynb
+
+> Note: With the last Conda update, the library `SensitivityAnalyzer`from the package `sensitivity` is having some issues, had notified the package developer about this, should be fixed soon.
