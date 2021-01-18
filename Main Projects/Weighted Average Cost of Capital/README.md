@@ -1,7 +1,7 @@
-## Time Value of Money
+## Weighted Average Cost of Capital
 
 This project focuses on calculating a WACC. The model cleans the data from the financial staments of WMT to determine a 
-market cost of debt and equity and the cost of each, debt and equity in order to determine a WACC. <br>
+market cost of debt and equity and the cost of each, debt and equity, to determine a WACC. <br>
 
 Notebook used:
 - Project - WACC.ipynb
