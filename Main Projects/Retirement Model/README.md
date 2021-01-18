@@ -1,8 +1,6 @@
 ## Retirement Model
 
 A retirement model which models salary with both a constant growth rate for cost of living raises as well as regular salary increases for promotions. <br>
-
-First model. <br>
 Files used:
 - Dynamic Salary Retirement Model.ipynb
 
