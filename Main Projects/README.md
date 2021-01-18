@@ -6,6 +6,7 @@ After practicing with the "small projects" we get to develop more detailed proje
 - Retirement Model
 - Time Value of Money
 - Weighted Average Cost of Capital
+- Full DCF Valuation [Work in Progress]
 
 You can find a more detailed explanation of the project in their corresponding file.
 
